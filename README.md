@@ -1,3 +1,3 @@
 # NFL-Offensive-Statistical-Analysis-
-Scraped offensive statistics for all 32 NFL teams spanning 2013-2023. Visualized the data to create an in-depth analysis of diverse offensive trends, scoring differentials, and team comparisons to derive actionable insights.
-Data was scraped from https://www.nfl.com/stats/team-stats/
+Scraped offensive statistics for all 32 NFL teams spanning from 2013-2023. Conduced in-depth analysis of diverse offensive trends, correlations, and team comparisons to derive actionable insights.
+Obtained the statistics on the NFL website: https://www.nfl.com/stats/team-stats. Used BeautifulSoup and Requests to successfully scrape. 20 tables of data (10 for each passing and rushing statistics spanning from 2013-2023). Implemented Pandas to store the data into a data frame. Visualized the data in the data frame with the tools in Matplotlib to conduce necessary comparisons and analysis.
